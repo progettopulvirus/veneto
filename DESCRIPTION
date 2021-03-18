@@ -1,13 +1,13 @@
 Package: veneto
-Title: What the Package Does (One Line, Title Case)
-Version: 1.0.0.0
+Title: Pacchetto dati  giornalieri per PULVIRUS
+Version: 1.0.0.1
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Guido",
+           family = "Fioravanti",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "guido.fioravanti@isprambiente.it",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: Tibbles con i dati regionali degli inquinanti per il periodo 2013 - 2020
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
