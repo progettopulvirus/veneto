@@ -1,6 +1,6 @@
-#' Tibble con i dati di co per 8 stazioni della regione VENETO
+#' Tibble con i dati di co per 10 stazioni della regione VENETO
 #'
-#' @format Un tibble con 8 colonne e 20817 osservazioni
+#' @format Un tibble con 8 colonne e 24469 osservazioni
 #'
 #' @usage
 #' co

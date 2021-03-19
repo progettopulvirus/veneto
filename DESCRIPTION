@@ -1,13 +1,13 @@
 Package: veneto
 Title: Pacchetto dati  giornalieri per PULVIRUS
-Version: 1.0.0.1
+Version: 2.0.0.0
 Authors@R: 
     person(given = "Guido",
            family = "Fioravanti",
            role = c("aut", "cre"),
            email = "guido.fioravanti@isprambiente.it",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Tibbles con i dati regionali degli inquinanti per il periodo 2013 - 2020
+Description: Tibbles con i dati regionali degli inquinanti per il periodo 2013 - 2020.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

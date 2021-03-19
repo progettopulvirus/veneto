@@ -1,6 +1,6 @@
-#' Tibble con i dati di pm10 per 26 stazioni della regione VENETO
+#' Tibble con i dati di pm10 per 27 stazioni della regione VENETO
 #'
-#' @format Un tibble con 8 colonne e 68633 osservazioni
+#' @format Un tibble con 8 colonne e 71006 osservazioni
 #'
 #' @usage
 #' pm10
