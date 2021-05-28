@@ -1,6 +1,6 @@
 Package: veneto
 Title: Pacchetto dati  giornalieri per PULVIRUS
-Version: 2.0.0.0
+Version: 3.0.0.0
 Authors@R: 
     person(given = "Guido",
            family = "Fioravanti",
