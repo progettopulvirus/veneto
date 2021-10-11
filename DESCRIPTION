@@ -1,0 +1,19 @@
+Package: veneto
+Dati inquinanti per modello INLA
+4.0.0.0
+Authors@R: 
+    person(given = "Guido",
+           family = "Fioravanti",
+           role = c("aut", "cre"),
+           email = "guido.fioravanti@isprambiente.it",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Dati selezionati con criteri di completezza per anni 2019 e 2020
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    tibble
+Depends: 
+    R (>= 2.10)
